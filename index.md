@@ -1,7 +1,7 @@
-Name: Deepika Senthil  
-UCSD email: dsenthil@ucsd.edu  
-Section: A01 (Data Valuation & Curation for Trustworthy AI)  
-Mentor: Babak Salimi
+**Name:** Deepika Senthil  
+**UCSD email:** dsenthil@ucsd.edu  
+**Section:** A01 (Data Valuation & Curation for Trustworthy AI)  
+**Mentor:** Babak Salimi
 
 **What is the most interesting topic covered in your domain this quarter?**
 Learning about the different distribution distance metrics and their underlying mathematics was the most interesting and foundational topic this quarter. Understanding the differences, pros, and cons of KL divergence, Wasserstein distance, and Maximum Mean Discrepancy (MMD) directly helped us analyze data valuation methods. This understanding was key to recognizing the drawbacks inherent in a framework like LAVA and appreciating how a method utilizing a more robust metric, such as KAIROS, helps effectively tackle those limitations.
