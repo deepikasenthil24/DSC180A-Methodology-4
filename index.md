@@ -1,6 +1,6 @@
-Name: Deepika Senthil
-UCSD email: dsenthil@ucsd.edu
-Section: A01 (Data Valuation & Curation for Trustworthy AI)
+Name: Deepika Senthil  
+UCSD email: dsenthil@ucsd.edu  
+Section: A01 (Data Valuation & Curation for Trustworthy AI)  
 Mentor: Babak Salimi
 
 **What is the most interesting topic covered in your domain this quarter?**
